@@ -289,6 +289,7 @@ Hurray! You successfully made a contribution!
 - [Samuel Z. Bouye](https://github.com/zamblebi)
 - [Sanyam Gupta](https://github.com/sanyam19)
 - [Sarwar Ahmed](https://github.com/SarwarAhmed)
+- [Sarthak Jain](https://github.com/Sarthakjain594)
 - [Satya Abhishek](https://github.com/kashek85)
 - [Satyadeep](https://github.com/satyaRF)
 - [Satyam Gadekar](https://github.com/07Satyam)
