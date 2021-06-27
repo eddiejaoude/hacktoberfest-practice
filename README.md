@@ -218,6 +218,7 @@ Hurray! You successfully made a contribution!
 - [Josh Callahan](https://github.com/joshcallahan)
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
 - [Kabir Jain](https://github.com/kkkkkabir)
+- [kuwar kapur](https://github.com/kuwarkapur)
 - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
 - [Kehinde Adeleke](https://github.com/adeleke5140)
 - [Khalid Khan](https://github.com/pablochocobae)
